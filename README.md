@@ -1,6 +1,3 @@
-dogecom
-=======
-
 ## This is not a serious project
 
 It's only a late night test about Pusher, a promising technology that makes it possible to notify clients from any language, like PHP in this exemple.
