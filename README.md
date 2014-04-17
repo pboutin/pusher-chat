@@ -16,12 +16,8 @@ In the root, create the following files :
     $key = 'your key';
     $secret = 'your secret token';
 
-And the same thing for your js
-
 ### pusher.js
-    var id = 'your id';
     var key = 'your key';
-    var secret = 'your secret token';
 
 #### If you're getting 500 errors from `sender.php`
 
