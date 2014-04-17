@@ -3,7 +3,7 @@ dogecom
 
 ## This is not a serious project
 
-It's only a late night test about Pusher, a promising technology that make it possible to notify clients from any language, like PHP in this exemple.
+It's only a late night test about Pusher, a promising technology that makes it possible to notify clients from any language, like PHP in this exemple.
 
 ## Setup
 
@@ -25,9 +25,12 @@ And the same thing for your js
 
 #### If you're getting 500 errors from `sender.php`
 
-It may be a problem from php's cURL library, the following helped for me (linux) :
+It may be a problem from php's cURL library, the following helped for me (Ubuntu & Debian) :
 
 `sudo apt-get install curl libcurl3 libcurl3-dev php5-curl`
 
 > source : http://www.php.net/manual/en/curl.installation.php
 
+#### Style from Geo for Bootstrap, by Divshot
+
+> source : http://code.divshot.com/geo-bootstrap/
