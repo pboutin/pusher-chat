@@ -28,8 +28,3 @@ It may be a problem from php's cURL library, the following helped for me (Ubuntu
 
 > source : http://code.divshot.com/geo-bootstrap/
 
-
-#### Test
-
-- [ ] A  
-- [x] B  
