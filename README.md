@@ -27,3 +27,9 @@ It may be a problem from php's cURL library, the following helped for me (Ubuntu
 #### Style from Geo for Bootstrap, by Divshot
 
 > source : http://code.divshot.com/geo-bootstrap/
+
+
+#### Test
+
+- [ ] A  
+- [x] B  
